@@ -2,13 +2,20 @@
 Answers to Hacking With Swift Coding Challenges
 
 
-As of August 23, 2023
+August 24, 2023
+Strings Section:
+- Does one string contain another? (fuzzy contains)
+
+August 23, 2023
 
 Strings Section:
 - Are the letters unique?
 - Is a string a palindrome?
 - Do two strings contain the same characters?
 
+
+
+Instructions:
 
 The individual challenges are stored within one Xcode project where:
 - In the main viewController's `viewDidLoad` method each challenge's tests are ran

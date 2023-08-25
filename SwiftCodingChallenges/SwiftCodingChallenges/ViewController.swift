@@ -16,6 +16,7 @@ class ViewController: NSViewController {
     testAreTheLettersUnique()
     testIsPalindrome()
     testContainTheSameCharacters()
+    testFuzzyContains()
   }
 }
 
