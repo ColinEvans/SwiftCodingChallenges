@@ -17,6 +17,7 @@ class ViewController: NSViewController {
     testIsPalindrome()
     testContainTheSameCharacters()
     testFuzzyContains()
+    testCountTheCharacters()
   }
 }
 

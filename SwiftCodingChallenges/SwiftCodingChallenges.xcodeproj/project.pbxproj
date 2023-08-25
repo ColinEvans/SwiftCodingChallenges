@@ -15,6 +15,7 @@
 		390158872A96E8C8001BF219 /* IsAStringAPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390158862A96E8C8001BF219 /* IsAStringAPalindrome.swift */; };
 		390158892A96F108001BF219 /* DoTwoStringsContainSameCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390158882A96F108001BF219 /* DoTwoStringsContainSameCharacters.swift */; };
 		3901588B2A96F731001BF219 /* FuzzyContains.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3901588A2A96F731001BF219 /* FuzzyContains.swift */; };
+		3901588D2A983913001BF219 /* CountTheCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3901588C2A983913001BF219 /* CountTheCharacters.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		390158862A96E8C8001BF219 /* IsAStringAPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsAStringAPalindrome.swift; sourceTree = "<group>"; };
 		390158882A96F108001BF219 /* DoTwoStringsContainSameCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoTwoStringsContainSameCharacters.swift; sourceTree = "<group>"; };
 		3901588A2A96F731001BF219 /* FuzzyContains.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuzzyContains.swift; sourceTree = "<group>"; };
+		3901588C2A983913001BF219 /* CountTheCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountTheCharacters.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				390158862A96E8C8001BF219 /* IsAStringAPalindrome.swift */,
 				390158882A96F108001BF219 /* DoTwoStringsContainSameCharacters.swift */,
 				3901588A2A96F731001BF219 /* FuzzyContains.swift */,
+				3901588C2A983913001BF219 /* CountTheCharacters.swift */,
 			);
 			path = Strings;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				390158852A96E4C2001BF219 /* AreTheLettersUnique.swift in Sources */,
 				390158752A96E315001BF219 /* AppDelegate.swift in Sources */,
 				3901588B2A96F731001BF219 /* FuzzyContains.swift in Sources */,
+				3901588D2A983913001BF219 /* CountTheCharacters.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

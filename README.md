@@ -5,6 +5,7 @@ Answers to Hacking With Swift Coding Challenges
 August 24, 2023
 Strings Section:
 - Does one string contain another? (fuzzy contains)
+- Count the characters (multiple solutions)
 
 August 23, 2023
 
