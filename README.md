@@ -2,17 +2,22 @@
 Answers to Hacking With Swift Coding Challenges
 
 
+Sept. 1, 2023
+Strings Section:
+- 7) Condense whitespace
+- 6) Remove Duplicate letters from a string 
+
 August 24, 2023
 Strings Section:
-- Does one string contain another? (fuzzy contains)
-- Count the characters (multiple solutions)
+- 5) Does one string contain another? (fuzzy contains)
+- 4) Count the characters (multiple solutions)
 
 August 23, 2023
 
 Strings Section:
-- Are the letters unique?
-- Is a string a palindrome?
-- Do two strings contain the same characters?
+- 3) Are the letters unique?
+- 2) Is a string a palindrome?
+- 1) Do two strings contain the same characters?
 
 
 

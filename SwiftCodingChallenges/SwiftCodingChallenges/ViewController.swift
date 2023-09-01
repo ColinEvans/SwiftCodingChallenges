@@ -18,6 +18,9 @@ class ViewController: NSViewController {
     testContainTheSameCharacters()
     testFuzzyContains()
     testCountTheCharacters()
+    testRemoveDuplicate()
+    testRemoveDuplicates()
+    testCondenseWhitespace()
   }
 }
 

@@ -16,6 +16,8 @@
 		390158892A96F108001BF219 /* DoTwoStringsContainSameCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390158882A96F108001BF219 /* DoTwoStringsContainSameCharacters.swift */; };
 		3901588B2A96F731001BF219 /* FuzzyContains.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3901588A2A96F731001BF219 /* FuzzyContains.swift */; };
 		3901588D2A983913001BF219 /* CountTheCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3901588C2A983913001BF219 /* CountTheCharacters.swift */; };
+		39D5A3882A9D803F00D59692 /* RemoveDuplicateLettersFromAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39D5A3872A9D803F00D59692 /* RemoveDuplicateLettersFromAString.swift */; };
+		39F11E7E2AA240A100546577 /* CondenseWhitespace.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39F11E7D2AA240A100546577 /* CondenseWhitespace.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		390158882A96F108001BF219 /* DoTwoStringsContainSameCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoTwoStringsContainSameCharacters.swift; sourceTree = "<group>"; };
 		3901588A2A96F731001BF219 /* FuzzyContains.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FuzzyContains.swift; sourceTree = "<group>"; };
 		3901588C2A983913001BF219 /* CountTheCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountTheCharacters.swift; sourceTree = "<group>"; };
+		39D5A3872A9D803F00D59692 /* RemoveDuplicateLettersFromAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicateLettersFromAString.swift; sourceTree = "<group>"; };
+		39F11E7D2AA240A100546577 /* CondenseWhitespace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CondenseWhitespace.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +84,8 @@
 				390158882A96F108001BF219 /* DoTwoStringsContainSameCharacters.swift */,
 				3901588A2A96F731001BF219 /* FuzzyContains.swift */,
 				3901588C2A983913001BF219 /* CountTheCharacters.swift */,
+				39D5A3872A9D803F00D59692 /* RemoveDuplicateLettersFromAString.swift */,
+				39F11E7D2AA240A100546577 /* CondenseWhitespace.swift */,
 			);
 			path = Strings;
 			sourceTree = "<group>";
@@ -155,7 +161,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				390158772A96E315001BF219 /* ViewController.swift in Sources */,
+				39F11E7E2AA240A100546577 /* CondenseWhitespace.swift in Sources */,
 				390158872A96E8C8001BF219 /* IsAStringAPalindrome.swift in Sources */,
+				39D5A3882A9D803F00D59692 /* RemoveDuplicateLettersFromAString.swift in Sources */,
 				390158892A96F108001BF219 /* DoTwoStringsContainSameCharacters.swift in Sources */,
 				390158852A96E4C2001BF219 /* AreTheLettersUnique.swift in Sources */,
 				390158752A96E315001BF219 /* AppDelegate.swift in Sources */,
